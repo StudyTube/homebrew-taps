@@ -4,9 +4,9 @@
 class AwsConnect < Formula
   desc "Simple AWS SessionManager helper for connecting to EC2 Instances"
   homepage "https://github.com/StudyTube/aws-connnect"
-  url "https://github.com/StudyTube/aws-connnect/archive/refs/heads/main.tar.gz"
+  url "https://codeload.github.com/StudyTube/aws-connect/tar.gz/refs/heads/main"
   version "0.1"
-  sha256 "3d42e33452c6728eb33eeccc3f3d42c0babe972d9f0847e3363a0b8c35647c97"
+  sha256 "2b7eaf847306c6931a449329434c26124a3eb2272482df97ef3de210b48adf64"
   license "MIT"
 
   depends_on "awscli"
